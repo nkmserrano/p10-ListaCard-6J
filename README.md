@@ -17,3 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Aplicacion de ListView: FlutLab - Flutter Online IDE
+
+- Propiedades de ListView [https://flutlab.io/docs](https://codesinsider.com/flutter-listview-example/?expand_article=1)
+- Nairobi Montiel 6J
+
+## Resultados
+![image](https://github.com/nkmserrano/p10-ListaCard-6J/assets/143548150/dde71fbb-4643-4218-b854-c2430a601e12)
